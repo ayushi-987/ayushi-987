@@ -1,4 +1,4 @@
-<h1> Hi,👋 I’m @ayushi-987 aka AYUSHI SONI</h1>
+<h1> Hi,👋 I’m AYUSHI SONI</h1>
 
 *  Currently Learning AR/VR.
 
