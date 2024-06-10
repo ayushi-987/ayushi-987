@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Experienced DevOps Engineer with a passion for learning and teaching.
+👨‍💻 Experienced DevOps Engineer with a passion for learning and teaching.<br>
 🌟 Eager to take on new challenges in the world of DevOps.
 
 
