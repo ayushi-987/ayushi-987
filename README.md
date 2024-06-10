@@ -1,51 +1,13 @@
-<h1> Hi,👋 I’m AYUSHI SONI</h1>
-
-*  Currently Learning AR/VR.
-
-*  Also worked on some Web Development and App Development Projects.
-
-*  Ready to learn new Tech.
+# 💫 About Me:
+👨‍💻 Experienced DevOps Engineer with a passion for learning and teaching.
+🌟 Eager to take on new challenges in the world of DevOps.
 
 
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushisoni987/) 
 
-<hr>
+# 💻 Tech Stack:
+ ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Sonarqube](https://img.shields.io/badge/sonarqube-%231A1918.svg?style=flat&logo=sonarqube&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana)
 
-
-
-<h3>TECHNOLOGIES AND TOOLS USED:</h3>
-
-
-
-![c++](https://img.icons8.com/ios-filled/72/c-plus-plus-logo.png)
-![c#](https://img.icons8.com/ios-filled/72/c-sharp-logo.png)
-![unity](https://img.icons8.com/ios-filled/72/unity.png)
-![blender](https://img.icons8.com/ios-filled/72/blender-3d.png)
-
-![python](https://img.icons8.com/color/72/python.png)
-![vscode](https://img.icons8.com/color/72/visual-studio.png)
-![kotlin](https://img.icons8.com/color/72/kotlin.png)
-
-
-<hr>
-
-<h3>Operating systems Used:</h3>
-
-![windows](https://img.icons8.com/color/72/windows-10.png)
-![Ubuntu](https://img.icons8.com/color/72/ubuntu--v1.png)
-
-<p align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushi-987)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-<p align ="center">
-
-[![LinkedIn][3.2]][3]
-
-
-[3.2]: https://img.icons8.com/ios-filled/72/linkedin.png
-</p>
-
-[3.2]: https://img.icons8.com/ios-filled/72/linkedin.png
-[3]:https://www.linkedin.com/in/ayushi-soni-13b82a1b2/
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
